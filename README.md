@@ -35,7 +35,7 @@ I'm keeping these projects here to:
 * 📈 See how my coding improves over time
 * 🗂️ Keep all my learning projects in one place
 
-> ** to the python gods please let me make it. 🐍✨**
+> ** to the python gods please let me make it. 🥺✨**
 
 ---
 
